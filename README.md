@@ -41,6 +41,7 @@ Esto garantiza un rango exacto entre [1000, 9999]. Se incluye una validación pa
 ## Ejemplo de Salida (Tabla Final)
 
 Al finalizar la ejecución, el programa muestra un reporte como el siguiente:
+```text
 
 =======================================================================
                          REPORTE FINAL DE RESULTADOS              
